@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a passionate **Frontend Developer** with **5+ years** of experience crafting modern, performant, and accessible web experiences. I love turning complex problems into elegant, intuitive interfaces and shipping polished products that users love.
+I'm a **Frontend Developer** with **5+ years** of experience crafting modern, performant, and accessible web experiences. I love turning complex problems into elegant, intuitive interfaces and shipping polished products that users love.
 
 - 🔭 Currently building scalable apps with **React** and **Headless CMS** architectures
 - 🌱 Always exploring new frontiers in JavaScript, Node.js, and modern web tooling
@@ -71,17 +71,6 @@ I'm a passionate **Frontend Developer** with **5+ years** of experience crafting
   <img src="https://streak-stats.demolab.com/?user=dil-surendra&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
-
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dil-surendra&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
 
 ---
 
