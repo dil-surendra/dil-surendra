@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;5%2B+Years+of+Building+Beautiful+UIs;React+%7C+JavaScript+%7C+Node.js+Enthusiast;Content+Creator+%26+Tech+Educator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;5%2B+Years+of+Building+Beautiful+UIs;React+%7C+JavaScript+%7C+Node.js+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,13 +19,11 @@
 
 ## About Me
 
-I'm a passionate **Frontend Developer** with **5+ years** of experience crafting modern, performant, and accessible web experiences. I love turning complex problems into elegant, intuitive interfaces and sharing what I learn along the way.
-
-Beyond coding, I'm an active **content creator** sharing tutorials, insights, and behind-the-scenes development tips across **YouTube**, **Medium**, and **Instagram**.
+I'm a passionate **Frontend Developer** with **5+ years** of experience crafting modern, performant, and accessible web experiences. I love turning complex problems into elegant, intuitive interfaces and shipping polished products that users love.
 
 - 🔭 Currently building scalable apps with **React** and **Headless CMS** architectures
 - 🌱 Always exploring new frontiers in JavaScript, Node.js, and modern web tooling
-- ✍️ Writing technical articles and shooting dev tutorials in my spare time
+- 🤝 Open to collaboration on interesting frontend and full-stack projects
 - ⚡ Fun fact: I believe great UI is invisible — users should feel it, not notice it
 
 ---
@@ -55,17 +53,11 @@ Beyond coding, I'm an active **content creator** sharing tutorials, insights, an
 ## Connect With Me
 
 <p align="left">
-  <a href="https://www.youtube.com/@dil-surendra" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC-dil-surendra?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000" alt="YouTube" />
-  </a>
-  <a href="https://medium.com/@dil-surendra" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.instagram.com/dil_surendra" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="https://www.linkedin.com/in/dil-surendra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/dil-surendra" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -74,12 +66,15 @@ Beyond coding, I'm an active **content creator** sharing tutorials, insights, an
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dil-surendra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dil-surendra&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dil-surendra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dil-surendra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=dil-surendra&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dil-surendra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
 ---
@@ -96,20 +91,14 @@ Beyond coding, I'm an active **content creator** sharing tutorials, insights, an
 
 ## Let's Connect
 
-I'm always open to interesting conversations, collaborations, and new opportunities. Whether you want to discuss frontend architecture, share ideas about content creation, or just say hi — my inbox is open.
+I'm always open to interesting conversations, collaborations, and new opportunities. Whether you want to discuss frontend architecture or just say hi — my inbox is open.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dil-surendra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/@dil-surendra" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://medium.com/@dil-surendra" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.instagram.com/dil_surendra" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://github.com/dil-surendra" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
